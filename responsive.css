@@ -320,5 +320,60 @@ margin-top: 10px;
     display: none;
 }
 
+
+
+.div1 .picture1{
+
+ display: none;
+}
+.div1 .picture2{
+
+    display: none;
+}
+
+.burgermenu .picture3{
+
+    display: none;
+}
+
+
+.div3 .picture4{
+    display: none;
+}
+
+.all2 .picture5{
+    display: none;
+}
+
+.circle1{
+    position: absolute;
+    margin-top: -369px;
+    margin-left: 1089px;
+   
+
+}
+
+.circle3{
+    display: block;
+}
+
+.circle2{
+    display: block;
+}
+
+.circle4{
+    display: block;
+    position: absolute;
+    margin-top: 89px;
+    margin-left: -203px;
+
+}
+
+
+
+
+
+
+
 }
 
