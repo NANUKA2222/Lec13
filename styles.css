@@ -242,6 +242,7 @@ margin-left: 17px;
 position: relative;
 top:-23px;
 left: 80px;
+    white-space: nowrap;
 }
 
 .all2{
