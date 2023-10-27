@@ -1,0 +1,324 @@
+@media (width>1440px){
+    body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        overflow-x: hidden;
+    }
+
+    .hidden1{
+
+        display: block;
+    }
+    
+    .div1 img{
+    
+    
+        display: block;
+    }
+    
+    .desktop4{
+    
+    
+        display: block;
+       position: relative;
+       top: 110px;
+       left: 750px;
+      
+    }
+
+
+    .mobile3{
+        display: none;
+    }
+.hidden2{
+
+    display: none;
+}
+
+
+.div1{
+    width: 100vw;
+    height: 600px;
+background-color: rgba(45, 38, 65, 1);
+position: relative;
+top: -580px;
+z-index: -4;
+
+
+
+
+}
+
+.hidden1{
+    display: flex;
+    gap: 40px;
+color:rgba(0, 0, 0, 1);
+font-family: 'Karla';
+font-size: 13px;
+font-weight: 700;
+line-height: 15px;
+letter-spacing: 1.5px;
+text-align: center;
+
+
+
+}
+
+.hidden1 button{
+
+
+    width: 146px;
+height: 40px;
+border: 1.5px;
+background-color: black;
+color: white;
+cursor: pointer;
+font-family: 'Karla';
+font-size: 13px;
+font-weight: 700;
+line-height: 15px;
+letter-spacing: 1.5px;
+text-align: center;
+
+}
+
+h1{
+    width: 540px;
+    height: 140px;
+    font-family: 'DM Serif Display';
+font-size: 72px;
+font-weight: 400;
+line-height: 64px;
+letter-spacing: -1px;
+text-align: left;
+
+
+}
+
+.div1 p {
+
+    width: 540px;
+height: 84px;
+font-family: 'Karla';
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0px;
+text-align: left;
+
+
+}
+
+
+.div1 button{
+
+
+width: 146px;
+height: 40px;
+border: 1.5px;
+background-color: white;
+color: black;
+cursor: pointer;
+left: 30px;
+
+
+}
+
+
+h1 , .div1 p , .div1 button {
+    margin-left: 100px;
+
+
+
+}
+
+.line{
+
+
+    position: relative;
+    top: 80px;
+    left: 130px;
+}
+
+h2{
+    width: 666px;
+height: 64px;
+margin-left: -180px;
+
+
+}
+
+
+.div2{
+    margin-top: -290px;
+
+
+}
+
+
+.all{
+    display: flex;
+    gap: 60px;
+}
+
+h3{
+    width: 350px;
+    height: 38px;
+    font-family: 'DM Serif Display';
+font-size: 28px;
+font-weight: 400;
+line-height: 38px;
+letter-spacing: -0.3888888955116272px;
+text-align: left;
+
+    
+
+
+}
+
+
+.text{
+    width: 350px;
+height: 78px;
+font-family: 'Karla';
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0px;
+text-align: left;
+
+
+}
+
+.icon{
+    margin-left: 0px;
+}
+
+.div2 img{
+
+    margin-left: 10px;
+}
+
+
+
+.one{
+
+    margin-top: 90px;
+}
+
+.div3{
+    width: 1110px;
+height: 250px;
+display: flex;
+justify-content: space-evenly;
+
+}
+
+.div3 button {
+
+    width: 160px;
+height: 40px;
+border: 1.5px;
+background-color: white;
+color: black;
+margin-top: 100px;
+cursor: pointer;
+
+}
+.div3 button:hover{
+
+    background-color: lightcoral;
+    color: white;
+    transition: all 1s;
+}
+
+h4{
+
+width: 475px;
+height: 112px;
+font-family: 'DM Serif Display';
+font-size: 56px;
+font-weight: 400;
+line-height: 56px;
+letter-spacing: -0.7777777910232544px;
+text-align: left;
+margin-top: 10px;
+
+
+}
+
+
+.img3{
+
+    display: none;
+}
+
+
+.img4{
+    display: block;
+
+}
+
+.all2{
+    position: relative;
+    top: -20px;
+    left:-70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  
+   
+}
+
+
+
+.div4{
+    font-family: 'Karla';
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 1.5px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 200px;
+    margin-top: 30px;
+    cursor: pointer;
+    margin-left: 40px;
+    white-space: nowrap;
+
+
+}
+
+.our ,  .help , .contact , .others{
+
+    color: rgba(131, 125, 136, 1);
+}
+
+.four p:hover{
+    text-decoration: underline;
+    transition: all 1s;
+}
+
+.five p:hover{
+    text-decoration: underline;
+    transition: all 1s;
+}
+
+.six p:hover{
+    text-decoration: underline;
+    transition: all 1s;
+}
+.seven p:hover{
+    text-decoration: underline;
+    transition: all 1s;
+}
+
+.burgermenu{
+    display: none;
+}
+
+}
+

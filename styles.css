@@ -1,0 +1,352 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Karla&display=swap');
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* border: 1px red solid; */
+  
+}
+
+
+.images1{
+display: flex;
+justify-content: space-around;
+gap: 180px;
+
+margin-top: 10px;
+}
+
+.mobile3{
+
+margin-top: 25px;
+
+}
+
+.div1{
+    width: 375px;
+height: 500px;
+top: 531px;
+background-color: rgba(45, 38, 65, 1);
+margin-top: -40px;
+
+
+
+}
+
+h1{
+    width: 327px;
+height: 96px;
+font-family: 'DM Serif Display';
+font-size: 48px;
+font-weight: 400;
+line-height: 48px;
+letter-spacing: -0.6666666865348816px;
+text-align: center;
+color: rgba(255, 255, 255, 1);
+position: relative;
+top: 80px;
+left:30px ;
+
+
+
+}
+
+
+.div1 p {
+    width: 327px;
+height: 130px;
+font-family: 'Karla';
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0px;
+text-align: center;
+color: white;
+position: relative;
+top: 65px;
+left:30px ;
+
+}
+
+.div1 button {
+    width: 146px;
+    height: 40px;
+    border: 1.5px solid white;
+    background-color: rgba(45, 38, 65, 1);
+    color: white;
+    font-family: 'Karla';
+font-size: 13px;
+font-weight: 700;
+line-height: 15px;
+letter-spacing: 1.5px;
+text-align: center;
+position: relative;
+top: 75px;
+left:120px ;
+cursor: pointer;
+
+}
+.div1 button:hover{
+    background-color: white;
+    color: black;
+    transition: all 1s;
+}
+
+.hidden1{
+
+    display: none;
+}
+
+.div1 img{
+
+
+    display: none;
+}
+
+.desktop4{
+
+
+    display: none;
+}
+
+h2{
+
+
+    width: 327px;
+height: 48px;
+font-family: 'DM Serif Display';
+font-size: 48px;
+font-weight: 400;
+line-height: 48px;
+letter-spacing: -0.6666666865348816px;
+text-align: center;
+
+}
+
+.div2{
+margin-top: 160px;
+
+
+}
+
+
+.div2 img{
+    margin-left: 90px;
+
+
+
+}
+
+h3{
+    width: 327px;
+height: 38px;
+font-family: 'DM Serif Display';
+font-size: 28px;
+font-weight: 400;
+line-height: 38px;
+letter-spacing: -0.3888888955116272px;
+text-align: center;
+
+
+
+
+
+}
+
+
+.text{
+
+    width: 327px;
+height: 78px;
+font-family: 'Karl'a;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0px;
+text-align: center;
+color: rgba(131, 125, 136, 1);
+
+}
+ .icon{
+    margin-left: 125px;
+ }
+
+
+.all{
+    margin-top: 90px;
+}
+
+.two{
+
+    margin-top: 90px;
+}
+
+.three{
+
+    margin-top: 90px;
+}
+.div3{
+
+
+    width: 327px;
+height: 344px;
+background-color: rgba(45, 38, 65, 1);
+margin-top: 100px;
+
+}
+
+h4{
+
+
+width: 279px;
+height: 120px;
+font-family: 'DM Serif Display';
+font-size: 40px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: -0.5555555820465088px;
+text-align: center;
+color: white;
+padding-top: 60px;
+padding-left: 30px;
+
+}
+
+
+.div3 button {
+
+
+    width: 140px;
+    height: 40px;
+    border: 1.5px solid white;
+    background-color: rgba(45, 38, 65, 1);
+    color: white;
+    font-family: 'Karla';
+font-size: 13px;
+font-weight: 700;
+line-height: 15px;
+letter-spacing: 1.5px;
+text-align: center;
+cursor: pointer;
+margin-left: 100px;  
+}
+
+.all2{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 200px;
+}
+
+.img1{
+    width: 112px;
+height: 18px;
+
+}
+
+.img2{
+
+width: 144px;
+height: 24px;
+position: relative;
+left: -15px;
+
+}
+
+.img1 , .img2 {
+
+    margin-left: 110px;
+}
+
+.img3{
+
+    margin-top: 10px;
+}
+
+.img4{
+    display: none;
+}
+
+.div4{
+    width: 327px;
+    height: 15px;
+    font-family: 'Karla';
+font-size: 13px;
+font-weight: 700;
+line-height: 15px;
+letter-spacing: 1.5px;
+text-align: center;
+color:rgba(45, 38, 65, 1);
+
+    
+}
+
+.our ,  .help , .contact , .others{
+
+    color: rgba(131, 125, 136, 1);
+    position: relative;
+    top: 10px;
+}
+
+.burgermenu{
+    width: 375px;
+    height: 587px;
+   background-color: rgba(44, 40, 48, 1);
+   position:absolute;
+   top:6px;
+   left: 700px;
+   transform: translate(0%);
+   transition: all 1s;
+   z-index: 4;
+
+   
+}
+ .active{
+
+
+transform: translateX(-107%);
+transition: all 2s;
+
+
+
+ }
+
+ .titles{
+
+    width: 327px;
+    height: 40px;
+    font-family: 'Karla';
+font-size: 20px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 1.3636363744735718px;
+text-align: center;
+color: white;
+margin-top: 90px;
+margin-left: 30px;
+z-index: 15;
+
+ }
+
+
+ .header2{
+    width: 375px;
+height: 80px;
+background-color: white;
+ }
+
+.header2 img {
+
+    margin-top: 20px;
+    margin-left: 25px;
+
+}
+
+header{
+    overflow-x: hidden;
+}
+
+
